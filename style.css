@@ -202,7 +202,7 @@ section .title::after {
 .home {
     display: flex;
     justify-content: space-around;
-    background: url("images/bg-img-3.jpeg") no-repeat center;
+    background: url("/bg-img-3.jpeg") no-repeat center;
     height: 100vh;
     color: white;
     min-height: 500px;
